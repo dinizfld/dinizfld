@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Eaiiii, me chamo Fernando, estou cursando atualmente Ciencia da computação, e sou técnico em desenvolvimento de sistemas também.
-![download](https://user-images.githubusercontent.com/123640727/215798116-a35f46e9-96ec-41f3-910e-ee52d22b0b78.png)
-![download](https://user-images.githubusercontent.com/123640727/215798169-a4d4e48b-9b9f-43d9-84af-d3ddeeb4f2b2.png)
-![download](https://user-images.githubusercontent.com/123640727/215798251-de3ba5e6-25d8-42a0-b7f0-43b4fe5627c4.png)
