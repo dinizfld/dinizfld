@@ -10,3 +10,5 @@ Formado pela Etec em Desenvolvimento de sistemas, iniciei meus estudos em sistem
 Tenho certificado pelo Senai em Tecnico e vendas de produção, pacote office, excel a parte e tabém photoshop.
 
 Tenho experiencia em suporte com ao cliente, Telemarketing, e atualmento trabalho na Consultec engenharia e consultoria LTDA.
+
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
