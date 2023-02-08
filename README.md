@@ -1,14 +1,29 @@
-<img src="https://githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- Sou formado em Técnico em Desenvolvimento de sistemas, iniciei meus estudos na faculdade federal de Viçosa no curso de sistemas de informação mas não finalizei, atualmente faço Ciencia da computação pela universidade paulista.
-          
-- 🔭 I’m currently working  em uma empresa de engenharia civil como auxiliar, mas tenho experienc em desenvolvimento de sites web, suporte ao cliente, monitoramento de redes e telemarketim.
-          
-- 🌱 Tenho experienica em algumas linguagens: Python, MySQL, HTML, CSS, Csharp, C, C++, Photoshop.
-          
-- 🤝 I’m looking to  sempre aprender coisas novas e estar sempre atualizado das coisas, atualemte estou aprendendo JavaScript.
+<p align="left"> 
+  Sou formado em técnico em Desenvolvimento de sistemas, iniciei meus estudos no curso de sistemas de informação pela UFV mas não finalizei, optei em iniciar no curso de Ciência da computação pela universidade paulista.
+Tenho certificado em Photoshop, Vendas de produção e Excel.
+</p>
 
+<p align="left">
+  🦄 Linguagens: <strong>HTML, CSS, MySQL, Phyton, Csharp, Photoshop, C, C++</strong>
+</p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fernando-diniz-b8758121a/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/diniz.fld/)
+<p align="left">
+  💼 Experiencia: <strong>Atualmente trabalho em uma empresa de engenharia civil como auxiliar de escritório, trabalhei como suporte ao cliente, monitoramento de rede, telemarketing e administrativo</strong>
+</p>
 
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=fernandolimadiniz2002@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-diniz-b8758121a/" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/diniz.fld/?next=%2F"/></a>
+</p>  
