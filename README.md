@@ -14,7 +14,7 @@ Tenho certificado em Photoshop, Vendas de produção e Excel.
 </p>
 
 <p align="left">
-  Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  Minhas redes sociais: ⤵️
 </p>
 
 <p align="left">
@@ -35,3 +35,4 @@ Tenho certificado em Photoshop, Vendas de produção e Excel.
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
