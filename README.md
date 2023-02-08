@@ -6,15 +6,15 @@ Tenho certificado em Photoshop, Vendas de produção e Excel.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, MySQL, Phyton, Csharp, Photoshop, C, C++</strong>
+  Linguagens: <strong>HTML, CSS, MySQL, Phyton, Csharp, Photoshop, C, C++</strong>
 </p>
 
 <p align="left">
-  💼 Experiencia: <strong>Atualmente trabalho em uma empresa de engenharia civil como auxiliar de escritório, trabalhei como suporte ao cliente, monitoramento de rede, telemarketing e administrativo</strong>
+   Experiencia: <strong>Atualmente trabalho em uma empresa de engenharia civil como auxiliar de escritório, trabalhei como suporte ao cliente, monitoramento de rede, telemarketing e administrativo</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
 <p align="left">
@@ -24,11 +24,9 @@ Tenho certificado em Photoshop, Vendas de produção e Excel.
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-diniz-b8758121a/" /></a>
 
-   <a href="#" alt="Instagram">
+  <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/diniz.fld/?next=%2F"/></a>
-</p>
-
-
+</p>  
 
 
 
