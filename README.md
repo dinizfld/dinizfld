@@ -10,10 +10,6 @@ Tenho certificado em Photoshop, Vendas de produção e Excel.
 </p>
 
 <p align="left">
-   Experiencia: <strong>Atualmente trabalho em uma empresa de engenharia civil como auxiliar de escritório, trabalhei como suporte ao cliente, monitoramento de rede, telemarketing e administrativo</strong>
-</p>
-
-<p align="left">
   Minhas redes sociais: ⤵️
 </p>
 
