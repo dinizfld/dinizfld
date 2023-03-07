@@ -6,7 +6,7 @@ Tenho certificado em Photoshop, Vendas de produção e Excel.
 </p>
 
 <p align="left">
-  Linguagens: <strong>HTML, CSS, MySQL, Phyton, Csharp, Photoshop, C, C++</strong>
+  Linguagens: <strong>HTML, CSS, MySQL, Phyton, Csharp, Photoshop, C++</strong>
 </p>
 
 <p align="left">
@@ -22,4 +22,3 @@ Tenho certificado em Photoshop, Vendas de produção e Excel.
     <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
  </div>
-
