@@ -6,7 +6,7 @@ Tenho certificado em Photoshop, Vendas de produção e Excel.
 </p>
 
 <p align="left">
-  Linguagens: <strong>HTML, CSS, PHP, MySQL, Phyton, Csharp, JavaScript, Photoshop, C++</strong>
+  Linguagens: <strong>HTML, CSS, PHP, MySQL, Phyton, Csharp, JavaScript, C++</strong>
 </p>
 
 <p align="left">
