@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Sou formado em técnico em Desenvolvimento de sistemas, iniciei meus estudos no curso de sistemas de informação pela Universidade Federal de Viçosa (UFV) mas não finalizei, optei em iniciar no curso de Ciência da computação pela universidade paulista na qual estou atualmente.
+  Sou formado em técnico em Desenvolvimento de sistemas, iniciei meus estudos no curso de sistemas de informação pela Universidade Federal de Viçosa (UFV) mas não finalizei, optei em iniciar no curso de Sistemas pela universidade paulista na qual estou atualmente.
 Tenho certificado em Photoshop, Vendas de produção e Excel.
 </p>
 
